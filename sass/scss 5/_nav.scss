@@ -1,0 +1,26 @@
+// font
+$font-family: 'Raleway', sans-serif;
+
+// font size
+$fontSmall: 100;
+
+// color
+$background-color: transparent !important;
+
+// position
+$left: left;
+$center: center;
+$width: 150px;
+
+.pañaleraicon {
+    text-align: $left;
+    align-items: $center;
+}
+
+.navbar {
+    background-color: $background-color;
+    width: $width;
+    text-align: $center;
+    font-family: $font-family;
+    font-weight: $fontSmall;
+}
