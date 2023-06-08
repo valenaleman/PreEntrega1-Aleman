@@ -1,0 +1,16 @@
+// color
+$background-color: transparent !important;
+
+// position
+$left: left;
+$center: center;
+
+.pañaleraicon {
+    text-align: $left;
+    align-items: $center;
+}
+
+.navbar {
+    background-color: $background-color;
+    text-align: $center;
+}
