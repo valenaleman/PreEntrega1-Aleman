@@ -45,3 +45,12 @@ let correo;
 correo = prompt ('Ingrese su correo electrónico');
 
 console.log(correo);
+
+// Tipo de dato booleano
+
+let dato = false; // Tipo de dato booleano
+dato = true; // tipo de dato booleano
+
+if (true) {
+    console.log
+}
