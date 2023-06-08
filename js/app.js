@@ -51,6 +51,6 @@ console.log(correo);
 let dato = false; // Tipo de dato booleano
 dato = true; // tipo de dato booleano
 
-if (true) {
-    console.log
+if (true){
+    console.log('Correo ingresado')
 }
