@@ -1,0 +1,18 @@
+// custom
+$background-color: transparent !important;
+$width: 150px;
+
+//position
+$center: center;
+$left: left;
+
+.pañaleraicon {
+    text-align: $left;
+    align-items: $center;
+}
+
+.navbar {
+    background-color: $background-color;
+    width: $width;
+    text-align: $center;
+}

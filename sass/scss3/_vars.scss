@@ -1,0 +1,47 @@
+
+// font
+$font-family: 'Raleway', sans-serif;
+
+// font size
+$fontSmall: 200;
+$fontSmallest: 100;
+
+// colors
+$oneColor: gray;
+$secondColor: lightgreen;
+
+// position
+$padding: 20px;
+$margin: 0 auto;
+$width: 50%;
+$right: right;
+$twoWidth: 100%;
+
+h3 {
+    font-family: $font-family;
+    font-weight: $fontSmall;
+}
+
+h4 {
+    background-color: $oneColor;
+    padding: $padding;
+    margin: $margin;
+    width: $width;
+    font-family: $font-family;
+    font-weight: $fontSmallest;
+}
+
+.bluebox {
+    background-color: lightblue;
+    padding: $padding;
+    margin: $margin;
+    width: $twoWidth;
+}
+
+.dirección {
+    text-align: $right;
+}
+
+.txt {
+    color: $secondColor;
+}
